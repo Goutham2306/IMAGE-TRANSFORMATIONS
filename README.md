@@ -180,50 +180,50 @@ plt.show()
 ```
 ## Output:
 ### i)Image Translation
-<br>
+
 ![image](https://github.com/Goutham2306/IMAGE-TRANSFORMATIONS/assets/138971154/5eb202eb-f87c-413c-8441-bf4fc765557d)
 
 
-<br>
+
 
 ### ii) Image Scaling
-<br>
+
 ![image](https://github.com/Goutham2306/IMAGE-TRANSFORMATIONS/assets/138971154/2e146ac8-3205-49c5-8232-4e74cc6c19df)
 
-<br>
+
 
 
 
 ### iii)Image shearing
-<br>
+
 ![image](https://github.com/Goutham2306/IMAGE-TRANSFORMATIONS/assets/138971154/44f107c7-36bd-4bf5-94b7-93ce96455eeb)
 
-<br>
+
 
 
 
 ### iv)Image Reflection
-<br>
+
 ![image](https://github.com/Goutham2306/IMAGE-TRANSFORMATIONS/assets/138971154/4309a747-ccff-49b8-93d8-ec296c3a5796)
 
-<br>
+
 
 
 
 ### v)Image Rotation
-<br>
+
 ![image](https://github.com/Goutham2306/IMAGE-TRANSFORMATIONS/assets/138971154/16e9c982-7316-4e58-ae21-11e786bcd714)
 
 
-<br>
+
 
 
 
 ### vi)Image Cropping
-<br>
+
 ![image](https://github.com/Goutham2306/IMAGE-TRANSFORMATIONS/assets/138971154/06686662-5b58-4180-8c96-124800b23204)
 
-<br>
+
 
 
 
