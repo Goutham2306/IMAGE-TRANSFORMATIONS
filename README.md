@@ -177,7 +177,7 @@ plt.show()
 
 
 
-```
+
 ## Output:
  i)Image Translation
 
